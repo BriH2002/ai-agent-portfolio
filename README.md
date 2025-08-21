@@ -36,6 +36,7 @@ I'm Brianna Hillin, currently pursuing my Associate's degree in Medical Laborato
 - Organizes key subject points clearly
 - Maintains appropriate professional tone
 - Customizable for specific recipients
+  
 [🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-assistant-818f73f9/run/2f64abfc-a755-44d4-a3bd-676af4f1276b)
 
 ---
@@ -48,6 +49,7 @@ I'm Brianna Hillin, currently pursuing my Associate's degree in Medical Laborato
 - Provides clear, simple explanations
 - Maintains original meaning while improving accessibility
 - Perfect for educational purposes
+  
 [🔗 Try it out](https://app.mindstudio.ai/agents/jargon-buster-bd3219d2/run)
 
 ---
@@ -61,6 +63,7 @@ I'm Brianna Hillin, currently pursuing my Associate's degree in Medical Laborato
 - Helps optimize resume content
 - Improves application success rates
 - Tailored for technical and healthcare roles
+  
 [🔗 Try it out](https://app.mindstudio.ai/agents/resume-keyword-helper-21d57be3/run/2c26ad12-8c6b-4b40-a0d4-e699d5054ca5)
 
 ---
@@ -73,6 +76,7 @@ I'm Brianna Hillin, currently pursuing my Associate's degree in Medical Laborato
 - Creates social media-ready posts
 - Generates email newsletter content
 - Maintains consistent messaging across platforms
+  
 [🔗 Try it out](https://app.mindstudio.ai/agents/content-repurposing-agent-6d0150d5/run/185a0826-2c9a-4b72-8351-a6cdead6d03a)
 
 ---
@@ -86,6 +90,7 @@ I'm Brianna Hillin, currently pursuing my Associate's degree in Medical Laborato
 - Organized data logging
 - Real-time company updates
 - Customizable tracking parameters
+  
 [🔗 Try it out](https://app.mindstudio.ai/agents/company-news-monitoring-agent-270d6042/run/2995db28-ae2e-40da-a4c1-547affde13e2)
 
 ## 📬 Contact Me
