@@ -24,7 +24,7 @@ I'm Brianna Hillin, currently pursuing my Associate's degree in Medical Laborato
 - Time-saving research workflow optimization
 - Compatible with various academic paper formats
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/research-information-extractor-0a6c7a3c/run/e16e866d-3e82-4c99-95d0-166714904a35))
+[🔗 Try it out](https://app.mindstudio.ai/agents/research-information-extractor-0a6c7a3c/run/e16e866d-3e82-4c99-95d0-166714904a35)
 
 ---
 
